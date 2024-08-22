@@ -13,16 +13,16 @@ permalink: /syllabus
 
 **Office hourse:** To be announced.
 
-**Course website:** we will use Canvas website (Fall MATH 180-01 20140), but will link additional information from a corresponding <a target="_parent" href="https://wcasper.github.io/math180fall2022">Github Pages site (link)</a> which you may find more convenient for pulling material.
+**Course website:** we will use Canvas website (Fall MATH 180-03 20075), but will link additional information from a corresponding <a target="_parent" href="https://wcasper.github.io/math180fall2024">Github Pages site (link)</a> which you may find more convenient for pulling material.
 
 ___
 
 ## Course meeting information
-* Section: 01 and 03
-* Course ID: 20140-20141
-* Time: TTh 10:00AM-11:50AM or 1:00PM-2:50PM
-* Meeting Dates: 08/20/2022-12/15/2022
-* Location: MH 565 or MH 563
+* Section: 03 and 04
+* Course ID: 20075-20369
+* Time: MW 3:00PM-4:50PM or TTh 3:00PM-4:50PM
+* Meeting Dates: 08/26/2022-12/15/2022
+* Location: MH 390 or MH 390
 
 ___
 
@@ -98,10 +98,9 @@ Allow me 24 hours to respond to your email before sending a follow-up email. My 
 If you miss any classes during the first week without notifying the instructor or the departmental office within 24 hours of the meeting, you may be dropped from the course.
 
 Attendance and class participation are important components for success in this course. We will work through assigned in-class problems during our meetings.
+Due to the high amount of group work, discussion, and in-class participation, attendance is **mandatory** and you will be graded based on daily attendance and participation.
 
-You will be expected to work in groups on in-class assignments. Be respectful, and make sure all team members have completed the task. The teamwork grade will be factored into the participation grade.
-
-You may also be asked to post in the Discussion Board. Before doing so, review the Forum Rules on our Canvas course site.
+You will be expected to work in groups on in-class assignments. Be respectful, and make sure all team members have completed the task.
 
 
 **Assigned Readings**
