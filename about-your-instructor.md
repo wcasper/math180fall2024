@@ -18,14 +18,20 @@ I obtained concurrently a B.S. in Mathematics, a B.S. in Physics, and a M.S. in 
 My research focuses on applications of algebra and algebraic geometry to various problems in pure and applied mathematics. Specific research interests include orthogonal polynomials, integrable systems, spectral theory of integral and differential operators, and noncommutative crepant resolutions. Additionally, my research includes work in computational fluid dynamics and high performance computing.
 
 ### Past/Current Research Projects with Students (as of 2021)
+* Using genetic algorithms to identify exponential sums
 * Exploring maximal cliques in derangement graphs with connections to orthogonal Latin squares
 * Determinants of special matrices related to Vandermonde matrices
 * Using orthogonal matrix polynomials for nonlinear eigenvalue problems
 * Exploring exact equations and recurrence relations for matrix-valued Chebyshev-type polynomials
 * Solving Battleship puzzle problems using discrete tomography and quantum computing
 
-### My Publications (as of 2022)
+### My Publications (as of 2024)
 
+* [The Pascal Matrix, Commuting Tridiagonal Operators and Fourier Algebras](https://arxiv.org/abs/2407.21680) <br/> (submitted)
+* [The restricted discrete Fourier transform](https://arxiv.org/abs/2407.20379) <br/> (submitted)
+* [Disconnected Cliques in Derangement Graphs](https://arxiv.org/abs/2407.14155) <br/> (submitted)
+* [A Burchnall-Chaundy-Krichever Theory for Fractional Differential Operators](https://arxiv.org/abs/2108.12010) <br/> (submitted)
+* [Matrix valued discrete-continuous functions with the prolate spheroidal property](https://arxiv.org/abs/2302.05750) <br/> Communications in Math. Phys. (2023)
 * [The matrix Bochner problem](https://arxiv.org/abs/1803.04405) <br/> American J. Mathematics (2022)
 * [Reflective prolate-spheroidal operators and the adelic Grassmannian](https://arxiv.org/abs/2003.11616) <br/> Communications in Pure and Applied Mathematics (2022)
 * [Algebras of commuting differential operators for integral kernels of Airy type](https://arxiv.org/abs/2112.11639) <br/> Operator Theory: Advances and Applications (2022)
