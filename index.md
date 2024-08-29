@@ -16,12 +16,12 @@ title: Math 180 Strategies of Problem Solving
 
 **Email:** wcasper@fullerton.edu
 
-**Course meetings:** Tuesday and Thursday
+**Course meetings:**
 
-* Section 3: 3:00PM-4:50AM in MH 390
-* Section 4: 3:00PM-4:50PM in MH 390
+* Section 3: M,W 3:00PM-4:50AM in MH 390
+* Section 4: T,Th 3:00PM-4:50PM in MH 390
 
-**Office hours:** to be determined and by appointment
+**Office hours:** 1-2PM on Tuesday and 12-2PM on Thursday
 
 **Syllabus:** <a target="_parent" href="syllabus.html">Course syllabus (link)</a>
 
