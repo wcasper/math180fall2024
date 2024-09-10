@@ -13,11 +13,49 @@ The game **chomp** is played with two players, starting with an $m\times n$ grid
 * On each turn, players must take a bite.
 * The top left block is poisoned, and the player who eats this final block loses.
 
+
 Play the divisor game for a while with various size grids.
-Then discuss the following questions
-1. Which player has an advantage?
-2. Does one of the players have a perfect strategy thta will guarantee them a win?  Does the size of the board matter?
-3. What about if you pick up a partially played game?  Who has the advantage?
+Then solve the following problems.
+
+**Problem 1:**
+
+Consider a $$2\times 2$$ Chomp grid.
+
+<p align="center"><img src="fig/chomp2x2.png" width="60%"/></p>
+
+* (A) Explain why if Player one chooses a square adjacent to the poison square, then Player two will win.
+* (B) Explain why if Player one chooses the bottom right square, then they can force a win.
+
+**Problem 2:**
+
+Consider a $$2\times 3$$ Chomp grid.
+
+<p align="center"><img src="fig/chomp2x3.png" width="60%"/></p>
+
+* (A) Explain why if Player one chooses a square adjacent to the poison square, then Player two will win.
+* (B) Suppose that Player one chooses the square in the second row and second column, leading to the game state
+<p align="center"><img src="fig/chomp2x3a.png" width="60%"/></p>
+Show in detail that Player two can force a win.
+* (C) Suppose instead that Player one chooses the square in the second row and third column, leading to the game state
+<p align="center"><img src="fig/chomp2x3b.png" width="60%"/></p>
+Show in detail that Player one can force a win.
+
+**Problem 3:**
+
+Consider a $$3\times 3$$ Chomp grid.
+
+<p align="center"><img src="fig/chomp2x3.png" width="60%"/></p>
+
+* (A) Suppose that Player one chooses the square in the second row and second column, leading to the game state
+<p align="center"><img src="fig/chomp3x3a.png" width="60%"/></p>
+Show in detail that Player one can force a win.
+* (B) Suppose that Player one chooses the square in the second row and second column, leading to the game state
+<p align="center"><img src="fig/chomp3x3b.png" width="60%"/></p>
+Show in detail that Player two can force a win.
+* (C) Suppose that Player one chooses the square in the second row and second column, leading to the game state
+<p align="center"><img src="fig/chomp3x3c.png" width="60%"/></p>
+Show in detail that Player two can force a win.
+
 
 
 
