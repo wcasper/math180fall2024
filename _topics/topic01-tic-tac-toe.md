@@ -8,7 +8,7 @@ title: Topic 01 -- Tic-tac-toe
 * [Variations (link)](/math180fall2024/modules/tic-tac-toe/variations)
 * [Homework (link)](/math180fall2024/modules/tic-tac-toe/homework)
 * [Game of fifteen (link)](/math180fall2024/modules/tic-tac-toe/game-of-fifteen)
-* [Homework (link)](/math180fall2024/modules/tic-tac-toe/chomp)
+* [Chomp (link)](/math180fall2024/modules/tic-tac-toe/chomp)
 * [Solved games (link)](/math180fall2024/modules/tic-tac-toe/solved-games)
 * [Weakly solved games (link)](/math180fall2024/modules/tic-tac-toe/weakly-solved-games)
 
