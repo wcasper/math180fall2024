@@ -26,16 +26,4 @@ For example
 What about if you take over a game for a friend in the middle?  Games where a strategy for perfect play is known for *any* given board state are called **strongly solved**.
 *Tic-tac-toe* is strongly solved, for example.  So are *Guess Who?* and *Connect Four*.
 
-### Instructions
-
-Describe in precise detail what the perfect strategy is for the first player (*P1*) in $$3\times 5$$ Chomp.
-Make sure your strategy clearly describes
-* Where *P1* should play first
-* Where *P1* should play in response to every possible first move by *P2*
-* Where *P1* should play in response to every possible second move by *P2*
-* Where *P2* should play in response to every possible third move by *P2* 
-* ... and so on
-
-Write down your strategy and then scan and upload it to Canvas.
-
 

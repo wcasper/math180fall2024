@@ -46,16 +46,26 @@ Consider a $$3\times 3$$ Chomp grid.
 
 <p align="center"><img src="fig/chomp2x3.png" width="60%"/></p>
 
-* (A) Suppose that Player one chooses the square in the second row and second column, leading to the game state
+* (A) Explain why if Player one chooses any square in the first row, then Player two can force a win.
+* (B) Explain why if Player one chooses any square in the first column, then Player two can force a win.
+* (C) Suppose that Player one chooses the square in the second row and second column, leading to the game state
 <p align="center"><img src="fig/chomp3x3a.png" width="60%"/></p>
 Show in detail that Player one can force a win.
-* (B) Suppose that Player one chooses the square in the second row and second column, leading to the game state
-<p align="center"><img src="fig/chomp3x3b.png" width="60%"/></p>
-Show in detail that Player two can force a win.
-* (C) Suppose that Player one chooses the square in the second row and second column, leading to the game state
-<p align="center"><img src="fig/chomp3x3c.png" width="60%"/></p>
-Show in detail that Player two can force a win.
+* (D) Show that if Player one chooses any of the other squares, then Player two will win.
 
+**Problem 4:**
+
+Mathematicians have proved that Player one can force a win.
+However, the path to victory is narrow and full of danger: one wrong move and Player two can instead force a victory.
+Experienced Chomp players and computer simulations have found that Player one has exactly one perfect opening move -- any other move and Player two can instead force a win!
+
+In the problems above, you discovered the perfect opening move for $$2\times 2$$, $$2\times 3$$ and $$3\times 3$$ boards.
+Now try to find the perfect opening move for each of the following boards
+* (A) a $$2\times 4$$ board
+* (B) a $$3\times 4$$ board
+* (C) a $$4\times 4$$ board
+* (D) a $$3\times 5$$ board
+* (E) a $$4\times 5$$ board
 
 
 
