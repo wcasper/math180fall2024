@@ -4,7 +4,7 @@ title: Chomp
 permalink: /modules/tic-tac-toe/chomp
 ---
 
-<p align="center"><img src="fig/chomp.png" width="30%"/></p>
+<p align="center"><img src="fig/chomp.png" width="80%"/></p>
 
 
 ### Chomp
