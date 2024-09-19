@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Topic 02 -- Tic-tac-toe
+title: Topic 02 -- Ready Set Bet
 ---
 
 * [Introduction (link)](/math180fall2024/modules/ready-set-bet/introduction)
