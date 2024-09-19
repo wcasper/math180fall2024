@@ -107,5 +107,34 @@ Putting in the actual values, we get
 $$E(f) = \frac{1}{6}3 + \frac{1}{6}(-2) + \frac{1}{6}1 + \frac{1}{6}(-2) + \frac{1}{6}1 + \frac{1}{6}(-2) = -\frac{1}{6}.$$
 
 
+In general, if the event space is $$\Omega = \{x_1,x_2,x_3,\dots, x_n\}$$, then the expectation value of a function $$f(x)$$ is
+
+$$E(f) = f(x_1)\mathbb P(x_1) + f(x_2)\mathbb P(x_2) + \dots + f(x_n)\mathbb P(x_n).$$
+
+**Example:**
+Suppose you roll two dice a million times.  Give an estimate of what the average of the sum of the two dice will be, if we average over all million experiments.
+
+In this case, the event space is the same as the previous example above, consisting of pairs if integers $$(i,j)$$ with $$1\leq i,j\leq 6$$.
+The value function is the sum $$f(i,j) = i+j$$, so the expectation value is
+
+$$\begin{align}
+E(f) 
+  & = f(1,1)\frac{1}{36} + f(1,2)\frac{1}{36} + f(1,3)\frac{1}{36} + f(1,4)\frac{1}{36} + f(1,5)\frac{1}{36} + f(1,6)\frac{1}{36}\\
+  & + f(2,1)\frac{1}{36} + f(2,2)\frac{1}{36} + f(2,3)\frac{1}{36} + f(2,4)\frac{1}{36} + f(2,5)\frac{1}{36} + f(2,6)\frac{1}{36}\\
+  & + f(3,1)\frac{1}{36} + f(3,2)\frac{1}{36} + f(3,3)\frac{1}{36} + f(3,4)\frac{1}{36} + f(3,5)\frac{1}{36} + f(3,6)\frac{1}{36}\\
+  & + f(4,1)\frac{1}{36} + f(4,2)\frac{1}{36} + f(4,3)\frac{1}{36} + f(4,4)\frac{1}{36} + f(4,5)\frac{1}{36} + f(4,6)\frac{1}{36}\\
+  & + f(5,1)\frac{1}{36} + f(5,2)\frac{1}{36} + f(5,3)\frac{1}{36} + f(5,4)\frac{1}{36} + f(5,5)\frac{1}{36} + f(5,6)\frac{1}{36}\\
+  & + f(6,1)\frac{1}{36} + f(6,2)\frac{1}{36} + f(6,3)\frac{1}{36} + f(6,4)\frac{1}{36} + f(6,5)\frac{1}{36} + f(6,6)\frac{1}{36}\\
+  & =  2\frac{1}{36} + 3\frac{1}{36} + 4\frac{1}{36} + 5\frac{1}{36} + 6\frac{1}{36} + 7\frac{1}{36}\\
+  & +  3\frac{1}{36} + 4\frac{1}{36} + 5\frac{1}{36} + 6\frac{1}{36} + 7\frac{1}{36} + 8\frac{1}{36}\\
+  & +  4\frac{1}{36} + 5\frac{1}{36} + 6\frac{1}{36} + 7\frac{1}{36} + 8\frac{1}{36} + 9\frac{1}{36}\\
+  & +  5\frac{1}{36} + 6\frac{1}{36} + 7\frac{1}{36} + 8\frac{1}{36} + 9\frac{1}{36} + 10\frac{1}{36}\\
+  & +  6\frac{1}{36} + 7\frac{1}{36} + 8\frac{1}{36} + 9\frac{1}{36} + 10\frac{1}{36} + 11\frac{1}{36} \\
+  & +  7\frac{1}{36} + 8\frac{1}{36} + 9\frac{1}{36} + 10\frac{1}{36} + 11\frac{1}{36} + 12\frac{1}{36}\\
+  & = \frac{27}{36} + \frac{33}{36} + \frac{39}{36} + \frac{45}{36] + \frac{51}{36} + \frac{57}{36} = \frac{252}{36} = 7.
+\end{align}$$
+
+So on average the sum looks like it will be around $$5.333$$
+
 
 
