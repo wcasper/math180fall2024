@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ready Set Bet Introduction
+title: Probability
 permalink: /modules/ready-set-bet/probability
 ---
 
