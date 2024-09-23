@@ -29,7 +29,7 @@ Then run all the fields to calculate the probability that each horse will win, p
 | Show Prob.  |     |   |   |   |   |   |   |    |       |
 | ----------- | --- | - | - | - | - | - | - | -  | ----- |
 
-* (b) If you were to place the $$5$$ token at the beginning of the game, before any horses move, what is the best position to put it in?  What is the expectation value of a bet there?
+* (b) If you were to place the $$5$$ token at the beginning of the game, before any horses move, what is the best position to put it in?  What is the expectation value of a bet there?  How does this expectation change if you instead place the $$2$$ token?
 * (c) If you were to place the $$5$$ token and the $$4$$ token at the beginning of the game, before any horses move, what is the best position to put them in?
 * (d) Suppose you wait until a few turns after which the $$11/12$$ horse is at the $$5$$'th position, both red horses are at the first position, the $$7$$ horse is at the first position, and all other horses are at the starting line.  How do the probabilities change?  Run a modified version of the code, and update the table.
 * (e) At this stage of the game, what is the best place to put your $$5$$ token?  What is the expectation value of a bet there?
