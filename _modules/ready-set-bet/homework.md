@@ -44,7 +44,7 @@ For example, it might be "How long should I wait until I place my first bet?" or
 * If you were playing a bunch of games, what data would you measure?
 * After you make these measurements, what analysis do you need to perform to get your final answer?
 * Can you modify the simulation code to measure this?  (If not, ask for help!)
-* After running the simulationo, what was the result?  Was it predictable or surprising?
+* After running the simulation, what was the result?  Was it predictable or surprising?
 
 
 
