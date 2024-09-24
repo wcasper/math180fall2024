@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ready Set Bet Introduction
+title: Ready Set Bet In-class Homework
 permalink: /modules/ready-set-bet/homework
 ---
 
@@ -8,12 +8,19 @@ permalink: /modules/ready-set-bet/homework
 
 # Problem 1
 
-Calculate by hand the following values.
+Suppose you are conducting an experiment consisting of replaying the first roll of a round of Ready Set Bet.
+* (a) What is the sample space?
+* (b) What is the probability of each member of the sample space?
+* (c) What is the expected position of every horse after the first roll?
 
-* (a) The expected position of every horse after the first roll.
-* (b) The expected position of every horse after the second roll.
 
 # Problem 2
+Suppose you are conducting an experiment consisting of replaying the first two rolls of a round of Ready Set Bet.
+* (a) What is the sample space?
+* (b) What is the probability of each member of the sample space?
+* (c) What is the expected position of every horse after the second roll?
+
+# Problem 3
 
 Upload the Jupyter notebook
 * [ReadySetBet.ipynb](python/ReadySetBet.ipynb)
@@ -34,7 +41,7 @@ Then run all the fields to calculate the probability that each horse will win, p
 * (d) Suppose you wait until a few turns after which the $$11/12$$ horse is at the $$5$$'th position, both red horses are at the first position, the $$7$$ horse is at the first position, and all other horses are at the starting line.  How do the probabilities change?  Run a modified version of the code, and update the table.
 * (e) At this stage of the game, what is the best place to put your $$5$$ token?  What is the expectation value of a bet there?
 
-# Problem 3
+# Problem 4
 
 As a group, come up with a question about Ready Set Bet that you can try to answer by playing (or simulating) a number of games.
 
