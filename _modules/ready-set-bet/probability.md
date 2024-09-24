@@ -13,6 +13,8 @@ divided by the total number of experiments performed.
 
 For example, if we roll a six-sided die a million times and count how many times we get a $$5$$, and then divide that count by a million, then we should end up with a value of around $$0.1667$$, representing the fact that the probability of rolling a $$5$$ is $$1/6$$.
 
+## Uniform probabilities
+
 To calculate the probability, we need to set up two things:
 * the **sample space** $$\Omega$$, which is the set of all possible outcomes of a random experiment
 * the **event** $$E$$, which is a subset of the sample space, representing the outcomes that satisfy the event
@@ -107,10 +109,6 @@ Putting in the actual values, we get
 $$E(f) = \frac{1}{6}3 + \frac{1}{6}(-2) + \frac{1}{6}1 + \frac{1}{6}(-2) + \frac{1}{6}1 + \frac{1}{6}(-2) = -\frac{1}{6}.$$
 
 
-In general, if the event space is $$\Omega = \{x_1,x_2,x_3,\dots, x_n\}$$, then the expectation value of a function $$f(x)$$ is
-
-$$E(f) = f(x_1)\mathbb P(x_1) + f(x_2)\mathbb P(x_2) + \dots + f(x_n)\mathbb P(x_n).$$
-
 **Example:**
 Suppose you roll two dice a million times.  Give an estimate of what the average of the sum of the two dice will be, if we average over all million experiments.
 
@@ -135,6 +133,44 @@ E(f)
 \end{align}$$
 
 So on average the sum looks like it will be around $$5.333$$
+
+
+## Non-uniform probabilities
+
+In some situtions, the probability of different outcomes of an event in the sample space may be different.
+For example, a **biased coin** may have a higher probability of getting a heads than a tails.
+The sample space in this case is 
+$$\Omega = \{\text{heads},\text{tails}\}$$
+consisting of the possible outcomes of heads and tails, respectively.
+However, now we also need to specify the probability $$p_{\text{heads}}$$ and $$p_{\text{tails}}$$ of getting a heads and a tails, respectively.
+
+
+
+In general, event space is $$\Omega = \{x_1,x_2,x_3,\dots, x_n\}$$ and the probability $$\mathbb P(\{x_j\})$$ is specified by some number $$p_j$$.  Then the expectation value of a function $$f(x)$$ on the sample space is
+
+$$E(f) = p_1f(x_1) + p_2f(x_2) + p_3f(x_3) + \dots + p_nf(x_n).$$
+
+
+**Example:**  Suppose that have a six-sided die.  Four of the sides are colored blue and the two remaining sides are colored gold.
+The sample space describing the experiment of rolling the dice is then
+
+
+$$\Omega = \{\text{blue},\text{gold}\}.$$
+
+The probabilities of each outcome are given by
+
+$$p_{\text{blue}} = \frac{2}{3},\quad\text{and}\quad p_{\text{gold}} = \frac{1}{3}.$$
+
+Suppose that we make a bet where if we get a gold, we win $$5$$ dollars, but if we get a blue, we lose $$3$$ dollars.
+In this case, the value function is
+
+$$f(\text{blue}) = -3,\quad f(\text{gold}) = 5.$$
+
+The expected money won or lost per roll is:
+
+$$E(f) = -3p_{\text{blue}} + 5p_{\text{gold}} = -3\frac{2}{3} + 5\frac{1}{3} = -\frac{1}{5} = -0.20.$$
+
+So per bed, we expect to lose $$20$$ cents.
 
 
 
