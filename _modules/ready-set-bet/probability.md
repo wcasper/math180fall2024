@@ -129,7 +129,7 @@ E(f)
   & +  5\frac{1}{36} + 6\frac{1}{36} + 7\frac{1}{36} + 8\frac{1}{36} + 9\frac{1}{36} + 10\frac{1}{36}\\
   & +  6\frac{1}{36} + 7\frac{1}{36} + 8\frac{1}{36} + 9\frac{1}{36} + 10\frac{1}{36} + 11\frac{1}{36} \\
   & +  7\frac{1}{36} + 8\frac{1}{36} + 9\frac{1}{36} + 10\frac{1}{36} + 11\frac{1}{36} + 12\frac{1}{36}\\
-  & = \frac{27}{36} + \frac{33}{36} + \frac{39}{36} + \frac{45}{36] + \frac{51}{36} + \frac{57}{36} = \frac{252}{36} = 7.
+  & = \frac{27}{36} + \frac{33}{36} + \frac{39}{36} + \frac{45}{36} + \frac{51}{36} + \frac{57}{36} = \frac{252}{36} = 7.
 \end{align}$$
 
 So on average the sum looks like it will be around $$5.333$$
