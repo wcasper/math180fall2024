@@ -132,7 +132,7 @@ E(f)
   & = \frac{27}{36} + \frac{33}{36} + \frac{39}{36} + \frac{45}{36} + \frac{51}{36} + \frac{57}{36} = \frac{252}{36} = 7.
 \end{align}$$
 
-So on average the sum looks like it will be around $$5.333$$
+So on average the sum looks like it will be around $$7$$
 
 
 ## Non-uniform probabilities
