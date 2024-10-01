@@ -4,8 +4,10 @@ title: Ready Set Bot
 permalink: /modules/ready-set-bet/ready-set-bot
 ---
 
+<p align="center"><img src="fig/robot.jpg" width="50%"/></p>
+
 You and your group members must design a betting strategy for a bot for the game Ready Set Bet which runs **autonomously**, meaning that there is no human input.
-Your strategy should clearly identify:
+Your strategy should have rules which clearly identify:
 1. Under what conditions a bet will be placed.  Does it depend on the horse positions?  Does it depend on how many other bets were made?  Carefully describe how!
 2. What token will be used to bet for each bet.  Remember which ones are available!
 3. What position you will bet on for each bet.  Ignore the exotic and prop bets and just consider the basic board.  Remember, someone might take your desired position first, so what do you do then?
