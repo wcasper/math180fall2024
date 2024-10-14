@@ -17,10 +17,11 @@ Consider, first, a single 2x1 ship on a 3x3 board as in the game Battleship.
 Consider, now, a full-sized 10x10 board.
 
 * (A) How many different ways are there to place a single 2x1 ship on a 10x10 board?
-* (B) How many different ways are there to place a single 3 x1 ship on a 10x10 board?
+* (B) How many different ways are there to place a single 3x1 ship on a 10x10 board?
 * (C) How many different ways are there to place both a 2x1 and a 3x1 ship on a 10x10 board, following the rules of Battleship ship placement?
 
 ### Problem 3
-How many ways are there to place a 2x1 ship and a 4x1 ship on a 10x10 board following the rules of Battleship?
+Use the [Battleship Simulator](https://wcasper.github.io/math180fall2024/modules/battleship/battleship-simulator) to find the best static firing sequence you can.
+What is the best sequence you found, and how many shots on average did it take to sink the fleet?
 
-Your responses should be 1-2 pages, scanned and uploaded as a pdf file.  One submission per group. 
+
