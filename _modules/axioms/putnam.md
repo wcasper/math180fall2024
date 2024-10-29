@@ -8,8 +8,8 @@ permalink: /modules/axioms/putnam-set
 
 We call a set of natural numbers $$S$$ a "Putnam set" if it satisfies the following three axioms.
 * (A1) 2 is in S,
-* (A2) $$n$$ is in $$S$$ whenever $$n^2$$ is in $$S$$, and
-* (A3) $$(n + 5)^2$$ is in $$S$$ whenever $$n$$ is in $$S$$.
+* (A2) if $$n^2$$ is in $$S$$, then $$n$$ is also in $$S$$, and
+* (A3) if $$n$$ is in $$S$$, then $$(n + 5)^2$$ is in $$S$$
 
 ### Questions
 
