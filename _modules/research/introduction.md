@@ -23,26 +23,19 @@ Take some time to get to know them!
 
 ## Research timeline
 
-This project will last from now until the end of the semester and is lengthy, so it will involve a lot of checkpoints.
-
 The timeline for our in-class research project is the following.
 
 |-----------------------------------|--------------------|
-|               task                |       timeline     | 
-|-----------------------------------|--------------------|
-|    choose your research team      |        11/07       |
-|    pick your research question    |        11/07       |
-|    in-class research check-in     |        11/09       |
-|    in-class research check-in     |        11/16       |
-|       written report draft due    |        11/30       | 
-|     poster creation in class      |        12/05       |
-|     final written report due      |        12/07       | 
-|      mock poster conference       |        12/07       | 
+|    choose your research team      |     11/19-11/20    |
+|    pick your research question    |     11/19-11/20    | 
+|    in-class research check-in     |     12/02-12/06    |
+|     final written report due      |        12/15       | 
+|      mock poster conference       |     12/11-12/12    | 
 |-----------------------------------|--------------------|
 
 
-* For each of the in-class meetings, your group will be talking with me about your progress in exploring the question that you picked.  During our meetings, we will talk about the current direction of your project and I will try to provide the best advice that I can in order to avoid dead-ends.  Ultimately, just as in real research, the progress your group makes on the project will depend on your effort, creativity, skill, and even luck!
-* I will give feedback on each of your groups research reports.  As seen above you will have a report draft due before the final draft, and it's okay if you are still exploring the problem and updating the results in the meantime.
+* You will need to do some work/thinking at home.  Make sure we are collaborating together thinking over ideas and creating a common document.
+* I will give feedback and guidance by email and also during class 12/02-12/06
 * We will have time during class to create a research poster and present our results in class.  We will also have a discussion about what presenting research in a poster is like, what the expectations are, and good conference etiquette.
 * On the last day of class, we will have a research poster conference where each student group will present their posters and results.
 
@@ -51,7 +44,7 @@ The timeline for our in-class research project is the following.
 Whenever your question is interesting, performing real research is *challenging* and can be intimidating.
 There's always the potential that despite your best effort, you do not make as much progress as you want on a particular problem.  **That's okay!**
 Each of the research questions provided has the potential to go in many directions and every group should be able to make some progress in one direction or another, with a little help.
-Your evaluation in this is based on successfully completing the checkpoints above, the quality of the final report and poster presentation, the participation of each member in their research group, and in participating and engaging in meetings and the final poster conference.  Each checkpoint will be evaluated with a grade supplied in the Seminars/Research component on Canvas.
+Your evaluation in this is based on the final research report and participation in the student poster symposium.
 
 
 
