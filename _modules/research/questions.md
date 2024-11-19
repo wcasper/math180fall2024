@@ -50,25 +50,25 @@ Or how about:
 Below is a list of research questions to choose from.
 You may also choose your own research question, though you are required to get approval from me.
 
-* 1. How many possible ways are there to place the entire fleet in a standard game of Battleship?
+* (1) How many possible ways are there to place the entire fleet in a standard game of Battleship?
 
-* 2. How many ways are there to put four $$2\times 1$$ Destroyers in the standard $$10\times 10$$ Battleship fleet?
+* (2) How many ways are there to put four $$2\times 1$$ Destroyers in the standard $$10\times 10$$ Battleship fleet?
 
-* 3. How many ways are there to completely fill up a Battleship board with $$50$$ $$2\times 1$$ ships.
+* (3) How many ways are there to completely fill up a Battleship board with $$50$$ $$2\times 1$$ ships.
 
-* 4. Suppose you take over a Battleship game halfway through.  Looking at the board of misses and hits, is there a reasonable mathematical model for the probability distribution of the remaining shots?  Is it related to the discrete Poisson equation?
+* (4) Suppose you take over a Battleship game halfway through.  Looking at the board of misses and hits, is there a reasonable mathematical model for the probability distribution of the remaining shots?  Is it related to the discrete Poisson equation?
 
-* 5. A set of $$20$$ SET cards without any sets is called a **cap set**.  What do various **cap sets** look like?  How many are there?
+* (5) A set of $$20$$ SET cards without any sets is called a **cap set**.  What do various **cap sets** look like?  How many are there?
 
-* 6. What move is the best first move when playing *Chomp* with a $$3\times n$$ grid?  Is there a pattern?
+* (6) What move is the best first move when playing *Chomp* with a $$3\times n$$ grid?  Is there a pattern?
 
-* 7. What if you play Chomp, but with some squares missing so that the chocolate bar has a hole in it.  This makes certain bites impossible, since there's no square to bite.  How does this change the game?  Under what conditions is Player 1 still guaranteed a win?
+* (7) What if you play Chomp, but with some squares missing so that the chocolate bar has a hole in it.  This makes certain bites impossible, since there's no square to bite.  How does this change the game?  Under what conditions is Player 1 still guaranteed a win?
 
-* 8. A Knight's Tour of a chessboard is one where it touches every single square on the board exactly one time.  Suppose you colored the chessboard with three colors, rather than two, ie. black, white, and blue, in a repeating way.  Is it possible for a Knight to do a "blue Knight's Tour", where they only move on the blue squares and touch every blue square exactly one time?  How many blue Knight's tours are there?
+* (8) A Knight's Tour of a chessboard is one where it touches every single square on the board exactly one time.  Suppose you colored the chessboard with three colors, rather than two, ie. black, white, and blue, in a repeating way.  Is it possible for a Knight to do a "blue Knight's Tour", where they only move on the blue squares and touch every blue square exactly one time?  How many blue Knight's tours are there?
 
-* 9. Can you find any positive integers $$n$$ where $$\tan(n) > n$$ (in radians)?  How many can you find?  Can you see any relationship between them?
+* (9) Can you find any positive integers $$n$$ where $$\tan(n) > n$$ (in radians)?  How many can you find?  Can you see any relationship between them?
 
-* 10. Consider the function
+* (10) Consider the function
 
 $$f(x) = \left\lbrace\begin{array}{cc}
 x/2,  & x \text{is even}\\
@@ -81,9 +81,9 @@ $$3\xrightarrow{f} 10\xrightarrow{f}5\xrightarrow{f}16\xrightarrow{f}8\xrightarr
 
 Is that true for all integers?  For what integers can you guarantee it will work?
 
-* 11. How many non-overlapping triangles can you make using $$5$$ straight lines?  What about $$6$$?  In general?
+* (11) How many non-overlapping triangles can you make using $$5$$ straight lines?  What about $$6$$?  In general?
 
-* 12. The $$n$$'th **triangular number** $$t_n$$ is the number
+* (12) The $$n$$'th **triangular number** $$t_n$$ is the number
 
 $$t_n = 1 + 2 + 3 + 4 + \dots + n.$$
 
@@ -91,19 +91,19 @@ For example $$t_1 = 1$$, $$t_2=3$$, $$t_3 =6$$, $$t_4 = 10$$, and so on.
 Is the product of two different triangular numbers ever a perfect cube?  If so, when?
 What about the product of three different triangular numbers?  Four?
 
-* 13.  Let $$a,b,c$$ be integers and consider the function  $$f: \mathbb{Z}^2\rightarrow\mathbb{Z}$$ defined by the rule
+* (13)  Let $$a,b,c$$ be integers and consider the function  $$f: \mathbb{Z}^2\rightarrow\mathbb{Z}$$ defined by the rule
 
 $$f(x,y) = ax + by + cxy.$$
 
 For which values of $$a,b,c$$ does the function turn out to be surjective?
 
-* 14.  Are there any triples of integers $$(x,y,z)$$ satisfying the equation
+* (14)  Are there any triples of integers $$(x,y,z)$$ satisfying the equation
 
 $$x^2+y^2=(yz-1)^3?$$
 
 What are all the solutions?
 
-* 15.  What is the minimum value of the expression
+* (15)  What is the minimum value of the expression
 
 $$|a+b+c|\left(\frac{1}{|a-b|} + \frac{1}{|b-c|} + \frac{1}{|c-a|}\right)$$
 
