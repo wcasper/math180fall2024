@@ -70,7 +70,7 @@ You may also choose your own research question, though you are required to get a
 
 10. Consider the function
 
-$$f(x) = \left\brace\begin{array}{cc}
+$$f(x) = \left\lbrace\begin{array}{cc}
 x/2,  & x \text{is even}\\
 3x+1, & x \text{is odd}\\
 \end{array}\right.$$
